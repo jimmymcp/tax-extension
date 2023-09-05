@@ -1,7 +1,8 @@
 {
   "country": "gb",
   "appFolders": [
-    "Tax Extension"
+    "Tax Extension",
+    "dependencies"
   ],
   "testFolders": [],
   "bcptTestFolders": []
