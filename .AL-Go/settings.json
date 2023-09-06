@@ -7,5 +7,6 @@
   "bcptTestFolders": [],
   "installApps": [
     "https://github.com/jimmymcp/tax-extension/raw/main/Tax%20Extension/dependencies/Aptean_Aptean%20Beverage%20Tax%20Management%20for%20Drink-IT%20Edition_23.500.106046.0.runtime-.app"
-  ]
+  ],
+  "gitHubRunner": "self-hosted"
 }
