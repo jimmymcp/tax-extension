@@ -11,5 +11,6 @@
     "C:\\Aptean\\Apps\\Aptean_Aptean Beverage Foundation Layer for Drink-IT Edition_23.500.105551.0.app",
     "C:\\Aptean\\Apps\\Aptean_Aptean Beverage Foundation Management for Drink-IT Edition_23.500.105317.0.app"
   ],
-  "gitHubRunner": "self-hosted"
+  "gitHubRunner": "self-hosted",
+  "githubRunnerShell": "pwsh"
 }
